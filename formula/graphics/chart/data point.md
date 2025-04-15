@@ -13,7 +13,7 @@ Step 3:
 For each series, the data point of a series divided by data point in total, getting the result.
 
 > [!Formula]
-> 
-> ```
-> percentage that a data point takes of its total = data point of a series / data point in total
-> ```
+
+```
+percentage that a data point takes of its total = data point of a series / data point in total
+```
